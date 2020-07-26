@@ -24,7 +24,7 @@
 
 Alice是一个论坛的管理员，她的老板你不用猜就知道，叫Bob。每当有人在论坛上发帖时，Alice都会审核帖子是否符合论坛规定。Alice领的是计件工资，审核一个帖子获得0.0001BSV，一天结算一次。但Bob老拖欠工资，Alice就说我每审核完一个帖子，你就得给我付一个帖子的钱，你不给钱，后面的帖子我就不审了。Bob说行是行，但这手续费占比可就太高了，不划算啊。要不这样，咱用支付通道吧，可省手续费了。
 
-![支付通道流程](/Users/edward/workspace/blog/payment-channel-fundamental/en-micropayment-channel.svg)
+![支付通道流程](https://raw.githubusercontent.com/corper/blog/a3078f3bde397320c37f47108da1f3dd43696760/payment-channel/en-micropayment-channel.svg)
 
 1. 创建“抵押tx”
 
